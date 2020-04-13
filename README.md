@@ -4,3 +4,4 @@
 ## Table of Contents
 
 - [Course overview + the shell](/course-shell)
+- [Shell Tools and Scripting](/shell-tools)
